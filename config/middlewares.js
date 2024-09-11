@@ -11,6 +11,7 @@ module.exports = [
         "http://localhost:1337",
         "http://localhost:3000",
         "http://localhost:5173",
+        "https://jin-compro-fe.vercel.app/",
       ],
     },
   },
